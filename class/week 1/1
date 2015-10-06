@@ -1,0 +1,42 @@
+.box1 {
+  background: #610000;
+  padding: 20px;
+}
+
+.box1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.box2 {
+  background: #FF0000;
+  height: 385px;
+}
+
+
+.box3 {
+  background: #610000;
+  margin: 64px 10px 32px 10px;
+  height: 225px;
+}
+
+.box6 {
+  background: #2A0000;
+  height: 917px;
+}
+
+.box7 {
+  padding: 140px 32px 70px 32px;
+  background: #B70000;
+}
+
+.box8 {
+  height: 412px;
+  background: #ED7679;
+}
+
+.box9 {
+  height: 204px;
+  background-color:#2A0000;
+
+}
